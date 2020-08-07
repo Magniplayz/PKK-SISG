@@ -8,7 +8,7 @@ Website SMP Sunan Giri beserta PPDB Online
 [David Surya](https://github.com/davpyu) as Co-PM
 [Titto Mahogany A]() as FrontEnd Developer  
 [Alifa Fitriana P.Y]() as FrontEnd Developer  
-[M Ghazy Al-Ghifari]() as BackEnd Developer  
+[M Ghazy Al-Ghifari](https://github.com/Magniplayz) as BackEnd Developer  
 [Ferdi Yusuf S](https://github.com/ferdiys) as BackEnd Developer  
 [Robet Atiq]() as Database Analyst  
 [Ummu Cholifatul Latifah](https://github.com/latifah1105) as Tester  
